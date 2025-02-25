@@ -5,7 +5,7 @@ import HITsz students' course schedule into IOS calendar
 
 ***本项目可以实现哈工大（深圳）本研教学平台课表导入ios系统日程本***
 
-方法一:自动导入：
+***方法一:自动导入：***
 
 ---此方法目前仅测试本科生课表，若程序报错可以使用手动导入---
     
@@ -26,7 +26,8 @@ import HITsz students' course schedule into IOS calendar
 具体操作方式：在文档中长按该文件并拖动，此时不要松手，用另一只手指退出文件界面，点开日历，此时松开拖动文件的手指。选择我们刚刚添加的日历，确认导入即可。
 
 
-方法二:手动导入：
+***方法二:手动导入：***
+
 1.确保环境内安装了openpyxl ics datetime这三个库。若没有安装，请在终端输入以下命令：
 
     pip instal openpyxl ics datetime
