@@ -1,5 +1,6 @@
 # CourseSchedule
 import HITsz students' course schedule into IOS calendar
+
 ***欢迎使用CourseSchedule***
 
 ***本项目可以实现哈工大（深圳）本研教学平台课表导入ios系统日程本***
